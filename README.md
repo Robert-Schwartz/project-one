@@ -23,10 +23,14 @@ https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api_
 
 ## Website
 
- https://lindseykrause.github.io/project-one/
+https://robert-schwartz.github.io/project-one/
 
 ## Issues
-Some user input does not return a keyword
+* HTML, JS, CSS PSUEDO CODE
+* Feature:  add JS Functions for API Server Calls
+* Feature:  Create HTML elements and JS event functions
+* Feature:  Add local storage format
+* Style:  Style page using BULVA API and CSS
 
 ## Contribution
 Made with ❤️ by Lindsey Krause, Robert Schwartz, & Will Trinidad-Cruz
